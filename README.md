@@ -13,7 +13,7 @@ There should be a total of 2 folders which contains other files and subfolders:
 <br>&ensp;• js --> logic.js (this is where you will be able to find the lines of code)
 
 ### Getting started
-To access the tool you can go to:
+To access the tool you can go to: https://dav5t.github.io/leaflet-challenge/
 <br> Alternatively you can download everything and copen index.html
 <br>&ensp;*note: If you run in to CORS policy issues and have all the files downloaded, you do the following option when using Visual Studio Code:*
 <br>&ensp;1. Right click on index.html and click "Open with server"
